@@ -1,7 +1,7 @@
 # Building-Rush
-FSE Game
-New commit
+ICS4U FSE Game
+
+Actual name: Mail Rush
 
 config.height=832;
 config.width=1280;
-so yeah hi
